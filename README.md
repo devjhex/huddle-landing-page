@@ -29,13 +29,12 @@ Users should be able to:
 ### Screenshot
 
 
-![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
+![Design preview for the Huddle landing page with single introductory section](./design/Solution.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://devjhex-huddle-landing-page-chi-ten.vercel.app/)
 
 ## My process
 
@@ -56,7 +55,7 @@ I am really determined to get better and very comfortable with tailwind css so b
 
 ### Useful resources
 
-- [Example resource 1](https://www.tailwindcss.com) - This helped me to get the core concepts of how tailwindCSS works and some of the units that are come in handy.
+- [Tailwind Docs](https://www.tailwindcss.com) - This helped me to get the core concepts of how tailwindCSS works and some of the units that are come in handy.
 
 
 ## Author
